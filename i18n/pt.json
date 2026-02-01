@@ -1,6 +1,11 @@
 {
   "appName": "Só Quero Ir",
   "appTagline": "Encontre oportunidades de viagem incríveis combinando voos baratos, eventos e hotéis",
+  "seo": {
+    "title": "Só Quero Ir - Encontre Oportunidades de Viagem Rápidas",
+    "description": "Descubra oportunidades de viagem rápidas e acessíveis. Encontre as melhores ofertas em voos, hotéis e pacotes de férias para sua viagem espontânea.",
+    "keywords": "viagem, viagem rápida, ofertas de viagem, ofertas de voos, ofertas de hotéis, pacotes de férias, viagem espontânea, viagem acessível"
+  },
   "search": {
     "title": "De onde você vai voar?",
     "placeholder": "Digite o código do aeroporto (ex: LON, NYC, PAR)",
@@ -27,6 +32,12 @@
   },
   "footer": "© 2026 Só Quero Ir. Todos os direitos reservados.",
   "language": "Idioma",
+  "languageMenu": "Menu de idiomas",
   "english": "English",
-  "portuguese": "Português"
+  "portuguese": "Português",
+  "notFound": {
+    "title": "Página Não Encontrada",
+    "message": "A página que você está procurando não existe ou foi movida.",
+    "backToHome": "Voltar ao Início"
+  }
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="230" viewBox="0 0 100 100">
+
+<rect x="4.25"
+  y="4.25"
+  rx="50"
+  ry="50"
+  width="91.5"
+  height="91.5"
+  fill="#f4f3f6"></rect>
+
+<text x="50"
+  y="50"
+  dx="-2"
+  dy="0"
+  fill="#005cbb"
+  font-size="42"
+  font-family="Roboto, Helvetica Neue, sans-serif"
+  font-weight=""
+  text-anchor="middle"
+  dominant-baseline="central">SQI</text>
+
+<rect x="4.25"
+  y="4.25"
+  rx="50"
+  ry="50"
+  width="91.5"
+  height="91.5"
+  fill-opacity="0"
+  stroke="#e0e2e6"
+  stroke-width="8.5"></rect>
+</svg>

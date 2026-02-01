@@ -1,6 +1,11 @@
 {
   "appName": "Just Wanna Go",
   "appTagline": "Find amazing travel opportunities combining cheap flights, events, and hotels",
+  "seo": {
+    "title": "Just Wanna Go - Find Quick Travel Opportunities",
+    "description": "Discover quick and affordable travel opportunities. Find the best deals on flights, hotels, and vacation packages for your spontaneous getaway.",
+    "keywords": "travel, quick travel, travel deals, flight deals, hotel deals, vacation packages, spontaneous travel, affordable travel"
+  },
   "search": {
     "title": "Where are you flying from?",
     "placeholder": "Enter airport code (e.g., LON, NYC, PAR)",
@@ -27,6 +32,12 @@
   },
   "footer": "© 2026 Just Wanna Go. All rights reserved.",
   "language": "Language",
+  "languageMenu": "Language menu",
   "english": "English",
-  "portuguese": "Português"
+  "portuguese": "Português",
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you're looking for doesn't exist or has been moved.",
+    "backToHome": "Back to Home"
+  }
 }
