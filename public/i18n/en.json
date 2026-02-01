@@ -1,0 +1,32 @@
+{
+  "appName": "Just Wanna Go",
+  "appTagline": "Find amazing travel opportunities combining cheap flights, events, and hotels",
+  "search": {
+    "title": "Where are you flying from?",
+    "placeholder": "Enter airport code (e.g., LON, NYC, PAR)",
+    "button": "Find Opportunities",
+    "searching": "Searching...",
+    "clear": "Clear",
+    "hint": "Enter your origin airport code to discover amazing travel opportunities",
+    "underConstruction": "🚧 This site is under construction. Soon you will be able to search for travel opportunities! 🚧"
+  },
+  "opportunities": {
+    "title": "Available Opportunities",
+    "noResults": "No opportunities found yet. Start by entering your origin airport above.",
+    "flight": "Flight",
+    "event": "Event",
+    "hotel": "Hotel",
+    "score": "Score",
+    "totalCost": "Total Cost",
+    "viewDetails": "View Details",
+    "date": "Date",
+    "price": "Price",
+    "rating": "Rating",
+    "distance": "Distance",
+    "pricePerNight": "per night"
+  },
+  "footer": "© 2026 Just Wanna Go. All rights reserved.",
+  "language": "Language",
+  "english": "English",
+  "portuguese": "Português"
+}

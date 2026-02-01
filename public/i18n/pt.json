@@ -1,0 +1,32 @@
+{
+  "appName": "Só Quero Ir",
+  "appTagline": "Encontre oportunidades de viagem incríveis combinando voos baratos, eventos e hotéis",
+  "search": {
+    "title": "De onde você vai voar?",
+    "placeholder": "Digite o código do aeroporto (ex: LON, NYC, PAR)",
+    "button": "Encontrar Oportunidades",
+    "searching": "Procurando...",
+    "clear": "Limpar",
+    "hint": "Digite seu código de aeroporto de origem para descobrir oportunidades de viagem incríveis",
+    "underConstruction": "🚧 Este site está em construção. Em breve você poderá buscar oportunidades de viagem! 🚧"
+  },
+  "opportunities": {
+    "title": "Oportunidades Disponíveis",
+    "noResults": "Nenhuma oportunidade encontrada ainda. Comece digitando seu aeroporto de origem acima.",
+    "flight": "Voo",
+    "event": "Evento",
+    "hotel": "Hotel",
+    "score": "Pontuação",
+    "totalCost": "Custo Total",
+    "viewDetails": "Ver Detalhes",
+    "date": "Data",
+    "price": "Preço",
+    "rating": "Avaliação",
+    "distance": "Distância",
+    "pricePerNight": "por noite"
+  },
+  "footer": "© 2026 Só Quero Ir. Todos os direitos reservados.",
+  "language": "Idioma",
+  "english": "English",
+  "portuguese": "Português"
+}
